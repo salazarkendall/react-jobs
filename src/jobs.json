@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "b70c",
-      "title": "ttesfds",
-      "type": "Full-Time",
-      "location": "fdafdafdsa",
-      "description": "fdsafadsfdsa",
-      "salary": "Under $50K",
-      "company": {
-        "name": "fsadfdasfdsa",
-        "description": "fsafdsfdsaf",
-        "contactEmail": "fadsfadsfds@gmail.com",
-        "contactPhone": "fadfdasfasdfdsa"
-      }
     }
   ]
 }
